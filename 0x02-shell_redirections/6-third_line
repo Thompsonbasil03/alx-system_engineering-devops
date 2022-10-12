@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-head --lines=3 iacta | tail --lines=1 
-=======
-head --lines=3 iacta / tail --lines=1
->>>>>>> 1e2c89a3ca965a98ebb0664e6d0434b4af6141c5
+head --lines=3 iacta | tail --lines=1
